@@ -1,2 +1,2 @@
-# FindikTakip
-FındıkTakip Uygulaması
+# FindikKontrol
+FındıkKontrol Uygulaması
